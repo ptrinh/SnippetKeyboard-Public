@@ -1,7 +1,8 @@
 # Recipes for dynamic snippets
 
-A dynamic snippet is a bubble whose text is an `https://` URL. Tapping it
-fetches that URL and inserts whatever comes back as text. That is the whole
+A dynamic snippet is a bubble you create with the **Dynamic** kind and an
+`https://` URL. Tapping it fetches that URL and inserts whatever comes back
+as text — or, with **Pick what to insert…**, just the one value you chose. That is the whole
 mechanism, so anything that can serve a line of text works.
 
 Pick by how much you want to set up:
@@ -21,8 +22,9 @@ Pick by how much you want to set up:
   uncapped on Pro). Return plain text, not HTML or JSON, unless you want that
   inserted literally.
 - 4 second timeout. If the fetch fails, the URL itself is inserted instead.
-- No headers or cookies are sent. Your endpoint must be reachable without
-  login.
+- No cookies are sent. If your endpoint needs an API key or a proxy, set them
+  in Setup → Advanced (version 1.1 and later); they apply to every dynamic
+  snippet.
 
 ## Tips
 
