@@ -18,9 +18,9 @@ Pick by how much you want to set up:
 ## What the app expects
 
 - `https://` only.
-- The response body is inserted as-is (first 100 characters on the free tier,
-  uncapped on Pro). Return plain text, not HTML or JSON, unless you want that
-  inserted literally.
+- The response body is inserted as-is, on every tier. Return plain text, not
+  HTML or JSON, unless you want that inserted literally — or use **Pick what
+  to insert…** to extract one value.
 - 4 second timeout. If the fetch fails, the URL itself is inserted instead.
 - No cookies are sent. If your endpoint needs an API key or a proxy, set them
   in Setup → Advanced (version 1.1 and later); they apply to every dynamic
