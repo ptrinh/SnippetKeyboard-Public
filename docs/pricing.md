@@ -29,12 +29,6 @@ note so nothing interrupts a conversation. From the next day, a tap over the
 limit opens the app instead, where you can upgrade. Limits reset at local
 midnight.
 
-## Already bought Pro before September 2026?
-
-You keep **unlimited inserts forever**. That was the deal when you bought it,
-and it still is. The app recognises the original purchase automatically;
-if it does not, use **Restore Purchase** on the Get Pro screen.
-
 ## Notes
 
 - Purchases are per store account (Apple ID or Google account), so they
