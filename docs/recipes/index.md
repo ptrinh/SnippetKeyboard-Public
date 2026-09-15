@@ -23,7 +23,7 @@ Pick by how much you want to set up:
   to insert…** to extract one value.
 - 4 second timeout. If the fetch fails, the URL itself is inserted instead.
 - No cookies are sent. If your endpoint needs an API key or a proxy, set them
-  in Setup → Advanced (version 1.1 and later); they apply to every dynamic
+  in Setup → Advanced (iOS 1.3 / Android 1.2 and later); they apply to every dynamic
   snippet.
 
 ## Tips

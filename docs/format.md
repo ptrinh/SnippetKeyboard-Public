@@ -28,7 +28,7 @@ edit it in any editor and move it between iOS and Android.
 - `\n` inside the text is a line break.
 - A `|` inside your text is written as `\|`. The app does this for you on export.
 
-## Snippet kinds (version 1.1 and later)
+## Snippet kinds (iOS 1.3 / Android 1.2 and later)
 
 The first line of the file is `# snippet-keyboard-format: 2`. The app writes
 it for you; it tells the app to read the kinds below. A file without it is
@@ -74,4 +74,4 @@ Without quotes, leading and trailing spaces are trimmed.
 This is useful when you build a reply from several snippets in a row: end
 each piece with the spacing the next one needs.
 
-*Spaces and blank lines require version 1.0.1 or later; kinds and extraction require 1.1.*
+*Kinds, extraction and edge whitespace require iOS 1.3 / Android 1.2 or later.*
