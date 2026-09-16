@@ -33,7 +33,7 @@ modified copy.
 ## Your content
 
 Your snippets are yours. The app stores them on your device and we never
-receive them — see the [privacy policy](privacy.md). You are responsible for
+receive them — see the [privacy policy](https://trinh.uk/snippetkeyboard/privacy/). You are responsible for
 what you insert with the app and for anything you fetch with a dynamic
 snippet, including having the right to use that content.
 
