@@ -5,6 +5,7 @@ Canned replies in one tap, on iOS and Android.
 - [Google Play](https://play.google.com/store/apps/details?id=uk.trinh.snippetkeyboard) · [Android APK](https://github.com/ptrinh/SnippetKeyboard-Public/releases)
 - [Snippet file format](format.md) — the YAML you import and export
 - [Pricing](pricing.md) — Free 20 / Pro 100 / Unlimited inserts per day
+- [Privacy policy](privacy.md) · [Terms of use](terms.md)
 - [Recipes for dynamic snippets](recipes/index.md) — where to get a URL that returns text
 
 ## Support
